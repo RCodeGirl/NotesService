@@ -1,10 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "iUvgt0h0iZkmshzyQH/rFRsy8cgJsDOY/BZZpbI9OYk9rnWxqWO7w22rrukSlDORJBDuaoeKdISAO5HctrTI0g==",
+  "dgSpecHash": "Aq2RR4v4VEsGxt2ntnx4WSXzxfwLSrju26OTEWiPq3BQRaQCTRqwVcRY2+aRqbeITXXL9R2Az+KFHAXAdcegmA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Margarita.Ababii\\Documents\\GitHub\\NotesService\\Notes.Application\\Notes.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Margarita.Ababii\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\Margarita.Ababii\\.nuget\\packages\\mediatr\\12.2.0\\mediatr.12.2.0.nupkg.sha512",
+    "C:\\Users\\Margarita.Ababii\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
     "C:\\Users\\Margarita.Ababii\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\Margarita.Ababii\\.nuget\\packages\\microsoft.entityframeworkcore\\8.0.1\\microsoft.entityframeworkcore.8.0.1.nupkg.sha512",
     "C:\\Users\\Margarita.Ababii\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\8.0.1\\microsoft.entityframeworkcore.abstractions.8.0.1.nupkg.sha512",
