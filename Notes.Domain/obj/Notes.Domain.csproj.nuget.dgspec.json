@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Margarita.Ababii\\source\\Code\\Notes.Backend\\Notes.Domain\\Notes.Domain.csproj": {}
+    "C:\\Users\\Margarita.Ababii\\Documents\\GitHub\\NotesService\\Notes.Domain\\Notes.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Margarita.Ababii\\source\\Code\\Notes.Backend\\Notes.Domain\\Notes.Domain.csproj": {
+    "C:\\Users\\Margarita.Ababii\\Documents\\GitHub\\NotesService\\Notes.Domain\\Notes.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Margarita.Ababii\\source\\Code\\Notes.Backend\\Notes.Domain\\Notes.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Margarita.Ababii\\Documents\\GitHub\\NotesService\\Notes.Domain\\Notes.Domain.csproj",
         "projectName": "Notes.Domain",
-        "projectPath": "C:\\Users\\Margarita.Ababii\\source\\Code\\Notes.Backend\\Notes.Domain\\Notes.Domain.csproj",
+        "projectPath": "C:\\Users\\Margarita.Ababii\\Documents\\GitHub\\NotesService\\Notes.Domain\\Notes.Domain.csproj",
         "packagesPath": "C:\\Users\\Margarita.Ababii\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Margarita.Ababii\\source\\Code\\Notes.Backend\\Notes.Domain\\obj\\",
+        "outputPath": "C:\\Users\\Margarita.Ababii\\Documents\\GitHub\\NotesService\\Notes.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Margarita.Ababii\\AppData\\Roaming\\NuGet\\NuGet.Config",

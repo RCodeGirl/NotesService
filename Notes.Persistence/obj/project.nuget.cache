@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PteI7XydW1iUhc0aIJb/UcuWxtUiaUDrLH/c+khTdo5xuXkZV+IBmhTQN7oq9VDbnfF75Mg2NJ4+cclKUuwiCQ==",
+  "dgSpecHash": "nPlpt17Xs22ppXPNskutFVLTo8A/Ic/cO6Tw9+hqbfl6FVzNXyy576+6p4eR9TSp/uVHDvb8talxnxa/0fQf9w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Margarita.Ababii\\source\\Code\\Notes.Backend\\Notes.Persistence\\Notes.Persistence.csproj",
+  "projectFilePath": "C:\\Users\\Margarita.Ababii\\Documents\\GitHub\\NotesService\\Notes.Persistence\\Notes.Persistence.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Margarita.Ababii\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\Margarita.Ababii\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

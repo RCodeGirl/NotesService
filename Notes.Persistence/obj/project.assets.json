@@ -1108,11 +1108,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Margarita.Ababii\\source\\Code\\Notes.Backend\\Notes.Persistence\\Notes.Persistence.csproj",
+      "projectUniqueName": "C:\\Users\\Margarita.Ababii\\Documents\\GitHub\\NotesService\\Notes.Persistence\\Notes.Persistence.csproj",
       "projectName": "Notes.Persistence",
-      "projectPath": "C:\\Users\\Margarita.Ababii\\source\\Code\\Notes.Backend\\Notes.Persistence\\Notes.Persistence.csproj",
+      "projectPath": "C:\\Users\\Margarita.Ababii\\Documents\\GitHub\\NotesService\\Notes.Persistence\\Notes.Persistence.csproj",
       "packagesPath": "C:\\Users\\Margarita.Ababii\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Margarita.Ababii\\source\\Code\\Notes.Backend\\Notes.Persistence\\obj\\",
+      "outputPath": "C:\\Users\\Margarita.Ababii\\Documents\\GitHub\\NotesService\\Notes.Persistence\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Margarita.Ababii\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1129,8 +1129,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\Margarita.Ababii\\source\\Code\\Notes.Backend\\Notes.Application\\Notes.Application.csproj": {
-              "projectPath": "C:\\Users\\Margarita.Ababii\\source\\Code\\Notes.Backend\\Notes.Application\\Notes.Application.csproj"
+            "C:\\Users\\Margarita.Ababii\\Documents\\GitHub\\NotesService\\Notes.Application\\Notes.Application.csproj": {
+              "projectPath": "C:\\Users\\Margarita.Ababii\\Documents\\GitHub\\NotesService\\Notes.Application\\Notes.Application.csproj"
             }
           }
         }

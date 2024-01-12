@@ -689,11 +689,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Margarita.Ababii\\source\\Code\\Notes.Backend\\Notes.Application\\Notes.Application.csproj",
+      "projectUniqueName": "C:\\Users\\Margarita.Ababii\\Documents\\GitHub\\NotesService\\Notes.Application\\Notes.Application.csproj",
       "projectName": "Notes.Application",
-      "projectPath": "C:\\Users\\Margarita.Ababii\\source\\Code\\Notes.Backend\\Notes.Application\\Notes.Application.csproj",
+      "projectPath": "C:\\Users\\Margarita.Ababii\\Documents\\GitHub\\NotesService\\Notes.Application\\Notes.Application.csproj",
       "packagesPath": "C:\\Users\\Margarita.Ababii\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Margarita.Ababii\\source\\Code\\Notes.Backend\\Notes.Application\\obj\\",
+      "outputPath": "C:\\Users\\Margarita.Ababii\\Documents\\GitHub\\NotesService\\Notes.Application\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Margarita.Ababii\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -710,8 +710,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\Margarita.Ababii\\source\\Code\\Notes.Backend\\Notes.Domain\\Notes.Domain.csproj": {
-              "projectPath": "C:\\Users\\Margarita.Ababii\\source\\Code\\Notes.Backend\\Notes.Domain\\Notes.Domain.csproj"
+            "C:\\Users\\Margarita.Ababii\\Documents\\GitHub\\NotesService\\Notes.Domain\\Notes.Domain.csproj": {
+              "projectPath": "C:\\Users\\Margarita.Ababii\\Documents\\GitHub\\NotesService\\Notes.Domain\\Notes.Domain.csproj"
             }
           }
         }

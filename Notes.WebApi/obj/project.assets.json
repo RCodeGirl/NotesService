@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Margarita.Ababii\\source\\Code\\Notes.Backend\\Notes.WebApi\\Notes.WebApi.csproj",
+      "projectUniqueName": "C:\\Users\\Margarita.Ababii\\Documents\\GitHub\\NotesService\\Notes.WebApi\\Notes.WebApi.csproj",
       "projectName": "Notes.WebApi",
-      "projectPath": "C:\\Users\\Margarita.Ababii\\source\\Code\\Notes.Backend\\Notes.WebApi\\Notes.WebApi.csproj",
+      "projectPath": "C:\\Users\\Margarita.Ababii\\Documents\\GitHub\\NotesService\\Notes.WebApi\\Notes.WebApi.csproj",
       "packagesPath": "C:\\Users\\Margarita.Ababii\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Margarita.Ababii\\source\\Code\\Notes.Backend\\Notes.WebApi\\obj\\",
+      "outputPath": "C:\\Users\\Margarita.Ababii\\Documents\\GitHub\\NotesService\\Notes.WebApi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Margarita.Ababii\\AppData\\Roaming\\NuGet\\NuGet.Config",

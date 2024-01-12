@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "frixnxVP3H0RyqnIvDcy49ajb7JF1BMvuzNCogCejT5vx+Se2dE0+PypgC1g8ivecklz45bdrNXsYFjIIXf2UA==",
+  "dgSpecHash": "iUvgt0h0iZkmshzyQH/rFRsy8cgJsDOY/BZZpbI9OYk9rnWxqWO7w22rrukSlDORJBDuaoeKdISAO5HctrTI0g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Margarita.Ababii\\source\\Code\\Notes.Backend\\Notes.Application\\Notes.Application.csproj",
+  "projectFilePath": "C:\\Users\\Margarita.Ababii\\Documents\\GitHub\\NotesService\\Notes.Application\\Notes.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Margarita.Ababii\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\Margarita.Ababii\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
