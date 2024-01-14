@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MbFbIybzSkddt81LPgQxkOHIPbemtCleP1/Vbb84SjNCxTX7PDJ+agtFTdX17Z3dsT4P0C35VoTDJlrTKE6gDA==",
+  "dgSpecHash": "s8FUP3piZyyPis6H7GFANgbhV9KIN8HDiaZNtyh3MFXkJoqX5gPVASN27pqZ67365pEb4/GkORMkpdgTOkcO8Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Margarita.Ababii\\Documents\\GitHub\\NotesService\\Notes.Domain\\Notes.Domain.csproj",
+  "projectFilePath": "C:\\Users\\ababi\\source\\repos\\NotesService\\Notes.Domain\\Notes.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

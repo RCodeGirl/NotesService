@@ -48,6 +48,19 @@
           }
         }
       },
+      "MediatR.Extensions.Microsoft.DependencyInjection/11.0.0": {
+        "type": "package",
+        "dependencies": {
+          "MediatR": "11.0.0",
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "6.0.0"
+        },
+        "compile": {
+          "lib/netstandard2.1/MediatR.Extensions.Microsoft.DependencyInjection.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.1/MediatR.Extensions.Microsoft.DependencyInjection.dll": {}
+        }
+      },
       "Microsoft.CSharp/4.7.0": {
         "type": "package",
         "compile": {
@@ -412,6 +425,7 @@
         "dependencies": {
           "AutoMapper": "12.0.1",
           "MediatR": "12.2.0",
+          "MediatR.Extensions.Microsoft.DependencyInjection": "11.0.0",
           "Microsoft.EntityFrameworkCore": "8.0.1",
           "Notes.Domain": "1.0.0"
         },
@@ -478,6 +492,19 @@
         "lib/netstandard2.0/MediatR.Contracts.xml",
         "mediatr.contracts.2.0.1.nupkg.sha512",
         "mediatr.contracts.nuspec"
+      ]
+    },
+    "MediatR.Extensions.Microsoft.DependencyInjection/11.0.0": {
+      "sha512": "jfD2NBYvP+HiUil2DWfM4bn+bCLp4H2xvoc9aorcnn2Jpgz7Ey8RyYMpgqeF3bs6CP6t8pzb6WkF5NFF/1RLHA==",
+      "type": "package",
+      "path": "mediatr.extensions.microsoft.dependencyinjection/11.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "gradient_128x128.png",
+        "lib/netstandard2.1/MediatR.Extensions.Microsoft.DependencyInjection.dll",
+        "mediatr.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
+        "mediatr.extensions.microsoft.dependencyinjection.nuspec"
       ]
     },
     "Microsoft.CSharp/4.7.0": {
@@ -1164,19 +1191,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Margarita.Ababii\\.nuget\\packages\\": {}
+    "C:\\Users\\ababi\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Margarita.Ababii\\Documents\\GitHub\\NotesService\\Notes.Persistence\\Notes.Persistence.csproj",
+      "projectUniqueName": "C:\\Users\\ababi\\source\\repos\\NotesService\\Notes.Persistence\\Notes.Persistence.csproj",
       "projectName": "Notes.Persistence",
-      "projectPath": "C:\\Users\\Margarita.Ababii\\Documents\\GitHub\\NotesService\\Notes.Persistence\\Notes.Persistence.csproj",
-      "packagesPath": "C:\\Users\\Margarita.Ababii\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Margarita.Ababii\\Documents\\GitHub\\NotesService\\Notes.Persistence\\obj\\",
+      "projectPath": "C:\\Users\\ababi\\source\\repos\\NotesService\\Notes.Persistence\\Notes.Persistence.csproj",
+      "packagesPath": "C:\\Users\\ababi\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ababi\\source\\repos\\NotesService\\Notes.Persistence\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\Margarita.Ababii\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\ababi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -1190,8 +1222,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\Margarita.Ababii\\Documents\\GitHub\\NotesService\\Notes.Application\\Notes.Application.csproj": {
-              "projectPath": "C:\\Users\\Margarita.Ababii\\Documents\\GitHub\\NotesService\\Notes.Application\\Notes.Application.csproj"
+            "C:\\Users\\ababi\\source\\repos\\NotesService\\Notes.Application\\Notes.Application.csproj": {
+              "projectPath": "C:\\Users\\ababi\\source\\repos\\NotesService\\Notes.Application\\Notes.Application.csproj"
             }
           }
         }
@@ -1231,7 +1263,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
